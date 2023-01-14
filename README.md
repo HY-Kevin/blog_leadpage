@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 个人樱花引导页
 ## 注意：
 此源码是基于 [Dimension](https://html5up.net/dimension "Dimension") 的二次修改
@@ -38,3 +39,7 @@ Demo：[https://nianbroken.github.io/Personal_Sakura_Guide_Page/](https://nianbr
 ------------
 ## 动态图：
 ![个人樱花引导页动态图](https://blog.nianbroken.top/NianBrokenStorage/FileStorage/7/04.gif "个人樱花引导页动态图")由于Gif较大，可能加载不出来或加载比较慢，建议直接前往演示站查看。
+=======
+# blog_leadpage
+lead to my blog
+>>>>>>> e855d86f69aa9c3963221d08db725c7c8cd72e9e
